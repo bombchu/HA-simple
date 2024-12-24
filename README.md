@@ -21,6 +21,8 @@ Redundancy should also be considered at the data storage level. Data should be r
 
 
 ## References:
-[1] https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html
-[2] ODCR: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-capacity-reservations.html
-[3] Zonal RIs: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/reserved-instances-scope.html#reserved-instances-regional-zonal-differences
+[1] https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html 
+
+[2] ODCR: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-capacity-reservations.html 
+
+[3] Zonal RIs: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/reserved-instances-scope.html#reserved-instances-regional-zonal-differences 
